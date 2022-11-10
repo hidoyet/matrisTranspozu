@@ -22,7 +22,7 @@ public class Main {
 			}		
 				
 		}
-		System.out.println("Girdiðiniz matrisin transpozu:");
+		System.out.println("GirdiÄŸiniz matrisin transpozu:");
 		System.out.println();
 		for(int i=0;i<transpose.length;i++) {
 			for(int j=0;j<transpose[0].length;j++) {
@@ -34,11 +34,3 @@ public class Main {
 	}
 
 }
-/*1 2 3
-  4 5 6
-  
-  1 4
-  2 5
-  3 6
-
-*/
